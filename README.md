@@ -1,2 +1,3 @@
 # .github
-The Red Hat Developer Hub Adventure
+
+The Red Hat Developer Hub Adventure (Organization)
